@@ -2,8 +2,16 @@
 	"author": "XiaoPao",
 	"description": "这是一次项目挑战",
 	"name": "fcc-learn-npm-package-json",
+	"version": "2.10.2",
+	"license": "MIT",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "~4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
